@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SmartVote</string>
+    <string name="NEXT">ถัดไป</string>
+    <string name="Days">วัน</string>
+    <string name="Hour">ชั่วโมง</string>
+    <string name="Minutes">นาที</string>
+    <string name="Seconds">วินาที</string>
+    <string name="count_down_to_election_day">Count Down To Election Day</string>
+    <string name="next">NEXT</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+</resources>
